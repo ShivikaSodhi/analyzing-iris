@@ -1,2 +1,2 @@
-# anallyzing-iris
+# analyzing-iris
 Analyzing IRIS Dataset
